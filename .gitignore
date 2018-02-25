@@ -1,3 +1,10 @@
+# Media files
+*.flv
+*.mp4
+*.mkv
+*.png
+*.psd
+
 # Prerequisites
 *.d
 
